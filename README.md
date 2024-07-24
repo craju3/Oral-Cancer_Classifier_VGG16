@@ -27,6 +27,9 @@ The notebook in this repository demonstrates the process of building and trainin
 4. Upload an image and use the trained model to classify it as "cancer" or "non-cancer".
 
 ## Dataset
+
+The dataset used for this project can be found on Kaggle: [Oral Cancer Dataset](https://www.kaggle.com/datasets/zaidpy/oral-cancer-dataset).
+
 The dataset should be organized into the following structure:
 <ul>
 <li><strong>data/</strong></li>
